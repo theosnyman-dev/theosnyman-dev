@@ -1,3 +1,3 @@
 <div align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/59941dcd7131a562e11bbe38/c305edf8-7254-48b9-a6cb-f5ba00153bdc/Splash_A24.jpg?format=1500w" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/free-vector/workspace-with-robot-working-computer-keyboard-top-view_107791-3428.jpg?w=1800&t=st=1667239938~exp=1667240538~hmac=368cee47f2344d8956be2481ffb008b6bdde9a034f6f2cf3bdcd2e1155eb8d66" align="center" style="width: 100%" />
 </div>
